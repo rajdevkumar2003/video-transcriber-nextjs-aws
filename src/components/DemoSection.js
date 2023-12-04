@@ -4,7 +4,7 @@
 
 export default function DemoSection() {
   return (
-    <div className="mt-10 flex flex-wrap gap-8 items-center">
+    <div className="mt-10 flex gap-8 items-center">
       <div className=" bg-gray-800/50 h-[480px] w-[320px] rounded-md">
         <video
         controls
